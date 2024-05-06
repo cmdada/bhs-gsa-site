@@ -23,7 +23,7 @@ Follow these steps to get a local copy of the project up and running for develop
 
 4. Start the development server:
    ```
-   pnpm docs:dev
+   pnpm run docs:dev
 
 ## Development
 - The site is built using [VuePress](https://vuepress.vuejs.org/), and has a jank system to do deployments automagically through 3 and a half github workflows
