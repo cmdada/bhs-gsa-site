@@ -6,7 +6,7 @@ title: BHS Gender-Sexuality Alliance
 heroImage: /logo.png
 heroText: BHS GSA
 tagline:
-heroFullScreen: true
+heroFullScreen: false
 navbar: false
 breadcrumb: false
 pageInfo: false
