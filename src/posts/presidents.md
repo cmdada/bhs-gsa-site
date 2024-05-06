@@ -23,5 +23,5 @@ Beaux is a senior and co-president of Boulder Highs’ GSA. He often gives prese
 
 **Year:** 2024-present  
 **Bio:**
-Ada is a junior and the tech manager of Boulder Highs’ GSA. She manages the technological side of presentations, the GSA Discord, website, and will occasionally give presentations. She loves robotics, and will often go on rants about it, so if you want to talk robotics, linux, or broader tech, she’s your girl.
+Ada is a junior and tech manager/coprez of Boulder Highs’ GSA. She manages the technological side of presentations, the GSA Discord, website, and will occasionally give presentations. She loves robotics, and will often go on rants about it, so if you want to talk robotics, linux, or broader tech, she’s your girl.
 
