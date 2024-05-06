@@ -1,5 +1,5 @@
 This project is a dynamic website designed to provide a comprehensive platform for the BHS GSA community. The site is hosted at [
-https://bhs-gsa-site.pages.dev](https://bhs-gsa-site.pages.dev).
+https://bhs-gsa-site.pages.dev](https://bhs-gsa-site.pages.dev) until i decide to buy a domain.
 ## Getting Started
 Follow these steps to get a local copy of the project up and running for development purposes.
 ### Prerequisites
@@ -22,7 +22,7 @@ Follow these steps to get a local copy of the project up and running for develop
    pnpm docs:dev
 
 ## Development
-- The site is built using [VuePress](https://vuepress.vuejs.org/).
+- The site is built using [VuePress](https://vuepress.vuejs.org/), and has a jank system to do deployments automagically through 3 and a half github workflows
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ## Contact
