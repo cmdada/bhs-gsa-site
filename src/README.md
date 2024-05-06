@@ -5,7 +5,7 @@ icon: home
 title: BHS Gender-Sexuality Alliance
 heroImage: /logo.png
 heroText: BHS GSA
-tagline: This is the Boulder High School Gender-Sexuality Alliance's website.
+tagline:
 heroFullScreen: true
 navbar: false
 breadcrumb: false
