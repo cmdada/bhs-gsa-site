@@ -17,5 +17,4 @@ prev: false
 next: false
 comment: false
 
-footer: website by Ada T
 ---
