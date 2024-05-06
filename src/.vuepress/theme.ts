@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
 
   author: {
-    name: "GSA Presidents",
+    name: "GSA",
     url: "https://adabit.org",
   },
 
