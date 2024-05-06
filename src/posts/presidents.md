@@ -5,6 +5,8 @@ footer: Made by ada t
 date: 2024-04-06
 category:
   - info
+tag:
+  - presidents
 ---
 
 # Presidents
