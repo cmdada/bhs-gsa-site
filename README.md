@@ -1,6 +1,7 @@
 [![pages-build-deployment](https://github.com/cmdada/bhs-gsa-site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/pages/pages-build-deployment)
 [![Deploy Docs](https://github.com/cmdada/bhs-gsa-site/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/deploy-docs.yml)
 [![Deploy static content to Pages](https://github.com/cmdada/bhs-gsa-site/actions/workflows/static.yml/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/static.yml)
+[![.github/workflows/dependency-review.yml](https://github.com/cmdada/bhs-gsa-site/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/dependency-review.yml)
 
 This project is a dynamic website designed to provide a comprehensive platform for the BHS GSA community. The site is hosted at [
 https://bhs-gsa-site.pages.dev](https://bhs-gsa-site.pages.dev) until i decide to buy a domain.
