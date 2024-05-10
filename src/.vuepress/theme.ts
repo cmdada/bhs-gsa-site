@@ -37,7 +37,7 @@ export default hopeTheme({
   },
 
   metaLocales: {
-    editLink: "",
+    editLink: "https://github.com/cmdada/bhs-gsa-site/tree/main/src",
   },
 
   // enable it to preview all changes in time

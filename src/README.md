@@ -5,13 +5,13 @@ icon: home
 title: BHS Gender-Sexuality Alliance
 heroImage: /logo.png
 heroText: BHS GSA
-tagline:
+tagline: Our blog/info site
 heroFullScreen: false
-navbar: false
-breadcrumb: false
-pageInfo: false
+navbar: true
+breadcrumb: true
+pageInfo: true
 contributors: false
-editLink: false
+editLink: true
 lastUpdated: false
 prev: false
 next: false
