@@ -6,6 +6,8 @@ date: 2024-04-08
 excerpt: This year we will be continuing to run our GSA calendar with important events, LGBTQ holidays, and info
 category:
   - info
+tag:
+  - calendar
 ---
 
 # Calendar
