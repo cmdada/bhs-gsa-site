@@ -6,7 +6,7 @@ export default hopeTheme({
 
   author: {
     name: "BHS GSA",
-    url: "https://adabit.org",
+    url: "/posts/presidents.html",
   },
 
   iconAssets: "fontawesome-with-brands",
