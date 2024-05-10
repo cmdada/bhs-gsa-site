@@ -3,6 +3,7 @@ title: Presidents
 lang: en-US
 footer: Made by ada t
 date: 2024-05-06
+excerpt: A new year means new presidents as Julian and Ally graduate.
 category:
   - info
 tag:
