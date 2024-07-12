@@ -19,7 +19,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "site by Ada T",
+  footer: "site created and maintaned by Ada T",
 
   displayFooter: true,
 
