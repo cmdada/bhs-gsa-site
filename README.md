@@ -15,7 +15,7 @@ Follow these steps to get a local copy of the project up and running for develop
 
 2. Navigate to the project directory:
    ```
-   cd bhs-gsa-site
+   cd ./bhs-gsa-site
 
 3. Install dependencies:
    ```
