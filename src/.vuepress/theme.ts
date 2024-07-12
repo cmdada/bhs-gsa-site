@@ -31,7 +31,7 @@ export default hopeTheme({
 
   blog: {
   	medias: {
-      Discord: "https://example.com",
+      Discord: "https://discord.gg/EPpuWdVmjF",
       Instagram: "https://www.instagram.com/boulder_high_gsa/",
     },
   },
