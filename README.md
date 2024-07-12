@@ -9,7 +9,7 @@ Follow these steps to get a local copy of the project up and running for develop
 ### Prerequisites
 - Ensure you have [Node.js](https://nodejs.org/) and pnpm installed
 ### Installation
-1. Clone the repository:
+1. Clone the repo:
    ```
    git clone https://github.com/cmdada/bhs-gsa-site
 
