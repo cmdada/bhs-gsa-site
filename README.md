@@ -7,7 +7,7 @@ https://bhsgsa.org](https://bhsgsa.org) (i just bought the domain through namech
 ## Getting Started
 Follow these steps to get a local copy of the project up and running for development
 ### Prerequisites
-- Ensure you have [Node.js](https://nodejs.org/) and pnpm installed
+- Ensure you have an adequate version of [Node.js](https://nodejs.org/) and pnpm installed
 ### Installation
 1. Clone the repo:
    ```
