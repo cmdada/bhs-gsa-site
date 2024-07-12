@@ -2,7 +2,7 @@
 [![Deploy Docs](https://github.com/cmdada/bhs-gsa-site/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/deploy-docs.yml)
 [![Deploy static content to Pages](https://github.com/cmdada/bhs-gsa-site/actions/workflows/static.yml/badge.svg)](https://github.com/cmdada/bhs-gsa-site/actions/workflows/static.yml)
 
-This project is a dynamic website designed to provide a comprehensive platform for the BHS GSA community. The site is hosted at [
+This project is a statically deployed website designed to provide a comprehensive platform for the BHS GSA community. The site is hosted at [
 https://bhsgsa.org](https://bhsgsa.org) (i just bought the domain through namecheap, if you're a future maintainer contact me at cmdada@proton.me.) oh and it uses cloudlfare pages and DNS for prod
 ## Getting Started
 Follow these steps to get a local copy of the project up and running for development
